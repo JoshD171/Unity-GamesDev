@@ -9,15 +9,23 @@ public class PrintAndHide : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
+<<<<<<< HEAD
 
     
 }
+=======
+        
+    }
+>>>>>>> feature-print
 
     // Update is called once per frame
     void Update()
     {
         Debug.Log(gameObject.name + ":" + i);
         i++;
+<<<<<<< HEAD
 
+=======
+>>>>>>> feature-print
     }
 }
