@@ -4,13 +4,8 @@
 TagManager:
   serializedVersion: 2
   tags:
-<<<<<<< HEAD
-  - Red
-  - Blue
-=======
   - Blue
   - Red
->>>>>>> feature-print
   layers:
   - Default
   - TransparentFX
